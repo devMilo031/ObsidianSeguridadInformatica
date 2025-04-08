@@ -1,0 +1,1 @@
+La **fase de preparación** es la etapa inicial del pentest, en la que se define el alcance de la prueba, se identifican los objetivos, se obtienen los permisos necesarios y se establecen los métodos y herramientas que se utilizarán en el análisis. También se lleva a cabo una recopilación preliminar de información.
