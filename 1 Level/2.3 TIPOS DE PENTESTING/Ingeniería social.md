@@ -1,0 +1,1 @@
+El **pentesting de ingeniería social** se enfoca en evaluar las defensas humanas de la organización, simulando técnicas de manipulación psicológica utilizadas por los atacantes para obtener acceso a información confidencial. Esto puede incluir ataques de phishing, pretexting (suplantación de identidad) o técnicas de manipulación telefónica.

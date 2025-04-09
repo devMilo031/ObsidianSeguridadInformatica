@@ -1,0 +1,1 @@
+Durante la **fase de ejecución**, los pentesters realizan las pruebas y técnicas de explotación para identificar y explotar vulnerabilidades en el sistema objetivo. Esta fase puede incluir escaneos de red, ataques de ingeniería social, pruebas de aplicaciones web, entre otros métodos.
