@@ -1,1 +1,0 @@
-El **Client-Side Pentesting** se centra en evaluar las vulnerabilidades en los dispositivos cliente, como ordenadores de escritorio, laptops, dispositivos móviles y otros puntos finales. Este tipo de pentesting se enfoca en la seguridad de las aplicaciones, sistemas operativos y configuraciones de usuario en los dispositivos utilizados por las personas dentro de la organización.

@@ -1,1 +1,0 @@
-La **fase de presentación de resultados** involucra la preparación de un informe detallado que describe las vulnerabilidades encontradas, su gravedad, las técnicas utilizadas para explotarlas y las recomendaciones para remediarlas. El informe suele incluir un resumen ejecutivo y una lista priorizada de las vulnerabilidades que requieren atención inmediata.

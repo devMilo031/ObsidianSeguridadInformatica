@@ -1,1 +1,0 @@
-El **pentesting wireless** implica la evaluación de las redes inalámbricas, como las conexiones Wi-Fi, para identificar vulnerabilidades en su configuración, como contraseñas débiles, falta de cifrado adecuado o redes mal configuradas. El objetivo es proteger las comunicaciones inalámbricas y garantizar que los atacantes no puedan interceptar o manipular los datos transmitidos.
